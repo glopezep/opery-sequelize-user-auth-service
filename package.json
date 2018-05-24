@@ -1,0 +1,22 @@
+{
+  "name": "opery-sequelize-user-auth-service",
+  "version": "0.0.1",
+  "description": "Sequelize user auth service for opery",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/glopezep/opery-sequelize-user-auth-service.git"
+  },
+  "keywords": [
+    "opery",
+    "sequelize",
+    "user",
+    "auth",
+    "service"
+  ],
+  "author": "Guillermo Lopez",
+  "license": "MIT"
+}
