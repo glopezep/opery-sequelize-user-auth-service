@@ -1,3 +1,7 @@
+'use strict'
+
+const utils = require('./utils')
+
 module.exports = function user (Model) {
   return {
     async getUserByUsername (username, callback) {
