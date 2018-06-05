@@ -1,6 +1,6 @@
 {
   "name": "opery-sequelize-user-auth-service",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Sequelize user auth service for opery",
   "main": "index.js",
   "scripts": {
