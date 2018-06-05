@@ -14,14 +14,15 @@ npm install --save opery-sequelize-user-auth-service
 - You need a Sequelize User Model to use this service.
 - Sequelize User Model should have an username field.
 
-## API
 
-### User
+## Methods
 
-#### `db.models.User.authenticate(username: String, password: String) -> Boolean`
+### db.models.User
+
+#### `authenticate(username: String, password: String) -> Boolean`
 Try to find an user to authenticate
 
-#### `db.models.User.gerUserByUsername(username: String) -> Boolean`
+#### `gerUserByUsername(username: String) -> Boolean`
 Try to find an user by his username
 
 ## License
