@@ -2,18 +2,21 @@
 
 > Sequelize user authentication service for opery
 
+## Description
 
-## Installation
-
-```bash
-npm install --save opery-sequelize-user-auth-service
-```
+This service adds auth methods for an Sequelize User Model
 
 ## Requirements
 
 - You need a Sequelize User Model to use this service.
 - Sequelize User Model should have an username field.
 
+
+## Installation
+
+```bash
+npm install --save opery-sequelize-user-auth-service
+```
 
 ## Methods
 
